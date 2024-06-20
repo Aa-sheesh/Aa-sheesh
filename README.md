@@ -3,6 +3,7 @@
 ![Developer gif](./public/web-webdevelopper.gif)
 <div class="image" style="display:flex; margin:10px; align-items:center;">
 <img src="./public/web-webdevelopper.gif" title="Developer gif" width="60%"/>
+</div>
 
 ## My stats
 [![Profile Summary](https://raw.githubusercontent.com/Aa-sheesh/Aa-sheesh/master/profile-summary-card-output/zenburn/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
