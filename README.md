@@ -12,7 +12,7 @@
 
 ## Quote for the day:
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?animation=grow_out_in&theme=dracula)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?&theme=dracula)
 
 ## My stats
 
