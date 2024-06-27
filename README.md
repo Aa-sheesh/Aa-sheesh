@@ -23,7 +23,7 @@
 [![Top languages using commits](https://raw.githubusercontent.com/Aa-sheesh/Aa-sheesh/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Stats](https://raw.githubusercontent.com/Aa-sheesh/Aa-sheesh/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Productive time](https://raw.githubusercontent.com/Aa-sheesh/Aa-sheesh/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-## Quote for the day
+## 💭  Quote for the day
 
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?&theme=dracula)
