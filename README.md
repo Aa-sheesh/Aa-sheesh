@@ -1,11 +1,11 @@
 <div align="center">
-<h1>About Me</h1>
+<h1>Hi 👋, I'm Aashish</h1>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
  -->
 <div align="left">
  
-**_Hey there! I'm a software developer who's all about teaming up and building cool projects together while learning along the way. Right now, I'm diving into Computer Science and Engineering at Manipal University Jaipur. I'm an open-source enthusiast, always on the lookout for new ways to contribute and collaborate with awesome people. Let's connect, create something amazing, and have a blast doing it!_** <br/>
+**Hey there! I'm a software developer who's all about teaming up and building cool projects together while learning along the way. Right now, I'm diving into Computer Science and Engineering at Manipal University Jaipur. I'm an open-source enthusiast, always on the lookout for new ways to contribute and collaborate with awesome people. Let's connect, create something amazing, and have a blast doing it!** <br/>
 
 </div>
 
@@ -15,7 +15,7 @@
 </div>
 
 
-## My stats
+## ⚙️  GitHub Stats
 
 
 [![Profile Summary](https://raw.githubusercontent.com/Aa-sheesh/Aa-sheesh/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
