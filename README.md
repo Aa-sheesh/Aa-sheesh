@@ -1,5 +1,5 @@
 <div align="center">
-# About Me
+<h1>About Me</h1>
 
 <!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)]
  -->
