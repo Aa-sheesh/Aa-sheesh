@@ -11,7 +11,7 @@
 
 <!-- ![Developer gif](./public/web-webdevelopper.gif) -->
 <div class="image" align="center">
-<img src="./public/web-webdevelopper.gif" title="Developer gif" width="80%"/>
+<img src="./public/web-webdevelopper.gif" title="Developer gif" width="70%"/>
 </div>
 
 
