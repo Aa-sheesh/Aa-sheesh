@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Aa-sheesh/Aa-sheesh/master/profile-summary-card-output/bear/4-productive-time.svg)
+```
+
+    
